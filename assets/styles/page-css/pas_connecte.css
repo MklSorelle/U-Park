@@ -1,0 +1,53 @@
+.pas_connecte{
+   height: calc(100vh - 89px);
+   width: 100%;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   color: #E0E0E0;;
+   padding: 25px;
+  
+  
+}
+
+.contener{
+    width: 100%;  
+}
+
+.items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.items img{
+    margin-bottom: 20px;
+}
+
+.connexion{
+    width: 100%;
+    height:45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #A8D5E2;
+    border-radius: 9px;
+    margin-top: 25px;
+}
+
+.inscrire{
+    width: 100%;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #4B5058;
+    border-radius: 9px;
+}
+
+.rejoindre{
+    padding-bottom: 20px;
+}

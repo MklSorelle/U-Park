@@ -1,0 +1,93 @@
+
+
+
+.home__title {
+    text-align: center;
+    padding-top: 24px;
+}
+
+.home__points {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home__points--half-circle {
+    width: 400px;
+    padding: 52px 0;
+}
+
+.home__points--qr-code {
+    width: 140px;
+    position: absolute;
+    transform: translateY(16px);
+    border-radius: 16px;
+}
+
+.home__button {
+    display: flex;
+    justify-content: center;
+}
+
+.home__button > :nth-child(2) {
+    margin-left: 20px;
+}
+
+.home__button--coin {
+    background-color: var(--lightGray);
+    border-radius: 8px;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+}
+
+.home__button--coin--icon {
+    margin-right: 8px;
+}
+
+.home__sub-title {
+    padding: 52px 0 20px;
+    text-align: center;
+}
+
+.home__button-footer {
+    display: flex;
+    justify-content: center;
+}
+
+.home__button-footer--use {
+    margin-top: 28px;
+    background-color: var(--lightBlue);
+    border-radius: 8px;
+    padding: 12px 36px;
+    display: flex;
+    align-items: center;
+    color: var(--white);
+}
+
+/*Nao est passé par ici*/
+/* A MODIFIER !!! (navbar trop haute)*/
+
+.nav_barre{
+    background-color: #4B5058;
+    width: 100%;
+    border-radius:12px;
+    height: 64px;
+}
+
+.item_nav_barre{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:0 20px;
+    height: 100%;
+}
+
+
+/* sandie */
+/* j'essaye de réparer mais c'est dla merde hein */
+
+footer {
+    padding: 25px;
+}

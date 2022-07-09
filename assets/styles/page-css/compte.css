@@ -1,0 +1,90 @@
+body{
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding:25px;
+    background-color: #2F3237;
+    height: 100vh;
+    overflow: hidden;
+}
+
+/* Page compte */
+.title{
+    color: #E0E0E0;;
+    font-size: 24px;
+    margin-bottom: 25px;
+}
+.compte{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    height: calc(100% - 139px);
+    color: #E0E0E0;;  
+}
+.libele{
+    color: #E0E0E0;;
+}
+.utilisateur{
+    height: 100px;
+    width: 100%;
+    background-color:#4B5058;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+    border-radius: 12px;
+}
+.utilisateur img{
+    margin: 20px;
+}
+
+.contener_settings{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    overflow-y: scroll;
+}
+
+.contener_settings::-webkit-scrollbar{width:0px}
+
+
+.setting{
+    width: 100%;
+    background-color: #4B5058;
+    color: #E0E0E0;;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+.items_settings{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
+}
+
+.nav_barre{
+    background-color: #4B5058;
+    width: 100%;
+    border-radius:12px;
+    height: 64px;
+  
+}
+.item_nav_barre{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:0 20px;
+    height: 100%;
+    margin-bottom: 25px;
+}
+
+
+
+
+/* sandie */
+
+footer {
+    padding: 0px
+}

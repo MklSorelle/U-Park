@@ -1,0 +1,29 @@
+
+  {
+    "name": "U-Park",
+    "short_name": "U-Park",
+   
+    "start_url": ".",
+    "display":"standalone",
+    "background_color":"#5900b3",
+    "theme_color":"black",
+    
+    
+    "icons":[
+      {
+        "src": "favicon.ico",
+        "sizes": "64x64 32x32 24x24 16x16",
+        "type": "image/x-icon"
+      },
+      {
+        "src": "512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      },
+      {
+        "src": "192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+  ]
+}

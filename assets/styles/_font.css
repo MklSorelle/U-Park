@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'SilasSans';
+    src: url('../fonts/SilasSans.woff') format('woff'),
+         url('../fonts/SilasSans.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SilasSans-Bold';
+    src: url('../fonts/SilasSans-Bold.woff') format('woff'),
+         url('../fonts/SilasSans-Bold.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'SilasSans-ExtraBold';
+    src: url('../fonts/SilasSans-ExtraBold.woff') format('woff'),
+         url('../fonts/SilasSans-ExtraBold.woff2') format('woff2');
+}
