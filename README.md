@@ -4,7 +4,7 @@ U-Park
 ## Sujet
 
 ### 1. Objectif
-Ce projet de fin d'année s'incrit sur la continuité de notre 1ère année à Hétic. Ainsi la JCI, nous a offert l'opportunité de pouvoir conceptualiser un service qui a pour but d'aider les petits commerçants.
+Ce projet de fin d'année s'inscrit sur la continuité de notre 1ère année à HETIC. Ainsi la JCI, nous a offert l'opportunité de pouvoir conceptualiser un service qui a pour but d'aider les petits commerçants.
 
 ### 2. Problématique
 Le coût élevé des stationnements à Paris.
